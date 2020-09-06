@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Rice-Disease-detector/precache-manifest.70780a1d03cea843bd1334ecc4106adb.js"
+  "/Rice-Disease-detector/precache-manifest.f51072acf0d90fa8c8b801e54d8e3270.js"
 );
 
 self.addEventListener('message', (event) => {
