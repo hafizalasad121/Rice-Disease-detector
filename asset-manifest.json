@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "./static/css/main.3e9f870c.chunk.css",
-    "main.js": "./static/js/main.7149eaed.chunk.js",
-    "main.js.map": "./static/js/main.7149eaed.chunk.js.map",
-    "runtime-main.js": "./static/js/runtime-main.80cc132c.js",
-    "runtime-main.js.map": "./static/js/runtime-main.80cc132c.js.map",
-    "static/css/2.ff8466aa.chunk.css": "./static/css/2.ff8466aa.chunk.css",
-    "static/js/2.4e8a2924.chunk.js": "./static/js/2.4e8a2924.chunk.js",
-    "static/js/2.4e8a2924.chunk.js.map": "./static/js/2.4e8a2924.chunk.js.map",
-    "index.html": "./index.html",
-    "precache-manifest.86685f59fc8d4c91ca295bea76430e93.js": "./precache-manifest.86685f59fc8d4c91ca295bea76430e93.js",
-    "service-worker.js": "./service-worker.js",
-    "static/css/2.ff8466aa.chunk.css.map": "./static/css/2.ff8466aa.chunk.css.map",
-    "static/css/main.3e9f870c.chunk.css.map": "./static/css/main.3e9f870c.chunk.css.map",
-    "static/js/2.4e8a2924.chunk.js.LICENSE.txt": "./static/js/2.4e8a2924.chunk.js.LICENSE.txt"
+    "main.css": "/Rice-Disease-detector/static/css/main.3e9f870c.chunk.css",
+    "main.js": "/Rice-Disease-detector/static/js/main.ada5f4b8.chunk.js",
+    "main.js.map": "/Rice-Disease-detector/static/js/main.ada5f4b8.chunk.js.map",
+    "runtime-main.js": "/Rice-Disease-detector/static/js/runtime-main.bead2f95.js",
+    "runtime-main.js.map": "/Rice-Disease-detector/static/js/runtime-main.bead2f95.js.map",
+    "static/css/2.ff8466aa.chunk.css": "/Rice-Disease-detector/static/css/2.ff8466aa.chunk.css",
+    "static/js/2.4e8a2924.chunk.js": "/Rice-Disease-detector/static/js/2.4e8a2924.chunk.js",
+    "static/js/2.4e8a2924.chunk.js.map": "/Rice-Disease-detector/static/js/2.4e8a2924.chunk.js.map",
+    "index.html": "/Rice-Disease-detector/index.html",
+    "precache-manifest.647fcfad085e287924a8ac5f2cdbb1b9.js": "/Rice-Disease-detector/precache-manifest.647fcfad085e287924a8ac5f2cdbb1b9.js",
+    "service-worker.js": "/Rice-Disease-detector/service-worker.js",
+    "static/css/2.ff8466aa.chunk.css.map": "/Rice-Disease-detector/static/css/2.ff8466aa.chunk.css.map",
+    "static/css/main.3e9f870c.chunk.css.map": "/Rice-Disease-detector/static/css/main.3e9f870c.chunk.css.map",
+    "static/js/2.4e8a2924.chunk.js.LICENSE.txt": "/Rice-Disease-detector/static/js/2.4e8a2924.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.80cc132c.js",
+    "static/js/runtime-main.bead2f95.js",
     "static/css/2.ff8466aa.chunk.css",
     "static/js/2.4e8a2924.chunk.js",
     "static/css/main.3e9f870c.chunk.css",
-    "static/js/main.7149eaed.chunk.js"
+    "static/js/main.ada5f4b8.chunk.js"
   ]
 }
