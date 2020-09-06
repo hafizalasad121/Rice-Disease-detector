@@ -1,12 +1,12 @@
-import React from "react";
-import { withStyles } from "@material-ui/core/styles";
-import Dialog from "@material-ui/core/Dialog";
 import AppBar from "@material-ui/core/AppBar";
-import Toolbar from "@material-ui/core/Toolbar";
+import Dialog from "@material-ui/core/Dialog";
 import IconButton from "@material-ui/core/IconButton";
+import Slide from "@material-ui/core/Slide";
+import { withStyles } from "@material-ui/core/styles";
+import Toolbar from "@material-ui/core/Toolbar";
 import Typography from "@material-ui/core/Typography";
 import CloseIcon from "@material-ui/icons/Close";
-import Slide from "@material-ui/core/Slide";
+import React from "react";
 
 const styles = {
     appBar: {
@@ -86,7 +86,13 @@ class ImgDialog extends React.Component {
                         </Typography>
                     </Toolbar>
                 </AppBar>
-                <p className={classes.result}>{this.props.result} Detected!</p>
+                <p className={classes.result}>
+                    {" "}
+                    {this.props.result === "powdery mildew"
+                        ? "rice blast"
+                        : "brown spot"}{" "}
+                    Detected!
+                </p>
                 <div className={classes.imgContainer}>
                     <img
                         src={this.props.img}

@@ -1,16 +1,16 @@
 import React from "react";
-import "react-responsive-modal/styles.css";
 import { Modal } from "react-responsive-modal";
+import "react-responsive-modal/styles.css";
 
 const PrivacyModal = (props) => {
     const [open, setOpen] = React.useState(false);
     const policyText = (
         <p>
-            Your privacy is important to us. It is AgRGB's policy to respect
-            your privacy regarding any information we may collect from you
-            across our website, http://agrgb.sudiptobaral.com, and other sites
-            we own and operate. We only ask for personal information when we
-            truly need it to provide a service to you.{" "}
+            Your privacy is important to us. It is our policy to respect your
+            privacy regarding any information we may collect from you across our
+            website, and other sites we own and operate. We only ask for
+            personal information when we truly need it to provide a service to
+            you.{" "}
             <strong>
                 We do not collect any browsing data or any images you upload.
             </strong>{" "}
@@ -25,7 +25,7 @@ const PrivacyModal = (props) => {
             continued use of our website will be regarded as acceptance of our
             practices around privacy and personal information. If you have any
             questions about how we handle user data and personal information,
-            feel free to contact us. This policy is effective as of 30 April
+            feel free to contact us. This policy is effective as of 30 August
             2020.
         </p>
     );

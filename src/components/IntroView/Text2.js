@@ -5,7 +5,7 @@ const Text2 = (props) => {
     return (
         <div className="center">
             <p className="text2">
-                Built with TensorFlow + Flask + React. Learn more. Watch
+                Built with TensorFlow + Flask + React.
                 <br />
             </p>
         </div>
