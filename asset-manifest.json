@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/hafizalasad121/Rice-Disease-detector/static/css/main.3e9f870c.chunk.css",
+    "main.js": "/hafizalasad121/Rice-Disease-detector/static/js/main.bb019eb3.chunk.js",
+    "main.js.map": "/hafizalasad121/Rice-Disease-detector/static/js/main.bb019eb3.chunk.js.map",
+    "runtime-main.js": "/hafizalasad121/Rice-Disease-detector/static/js/runtime-main.0e93b6dd.js",
+    "runtime-main.js.map": "/hafizalasad121/Rice-Disease-detector/static/js/runtime-main.0e93b6dd.js.map",
+    "static/css/2.ff8466aa.chunk.css": "/hafizalasad121/Rice-Disease-detector/static/css/2.ff8466aa.chunk.css",
+    "static/js/2.4e8a2924.chunk.js": "/hafizalasad121/Rice-Disease-detector/static/js/2.4e8a2924.chunk.js",
+    "static/js/2.4e8a2924.chunk.js.map": "/hafizalasad121/Rice-Disease-detector/static/js/2.4e8a2924.chunk.js.map",
+    "index.html": "/hafizalasad121/Rice-Disease-detector/index.html",
+    "precache-manifest.98a7e6f99adeaf4c2c632c6fd00cf341.js": "/hafizalasad121/Rice-Disease-detector/precache-manifest.98a7e6f99adeaf4c2c632c6fd00cf341.js",
+    "service-worker.js": "/hafizalasad121/Rice-Disease-detector/service-worker.js",
+    "static/css/2.ff8466aa.chunk.css.map": "/hafizalasad121/Rice-Disease-detector/static/css/2.ff8466aa.chunk.css.map",
+    "static/css/main.3e9f870c.chunk.css.map": "/hafizalasad121/Rice-Disease-detector/static/css/main.3e9f870c.chunk.css.map",
+    "static/js/2.4e8a2924.chunk.js.LICENSE.txt": "/hafizalasad121/Rice-Disease-detector/static/js/2.4e8a2924.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0e93b6dd.js",
+    "static/css/2.ff8466aa.chunk.css",
+    "static/js/2.4e8a2924.chunk.js",
+    "static/css/main.3e9f870c.chunk.css",
+    "static/js/main.bb019eb3.chunk.js"
+  ]
+}
